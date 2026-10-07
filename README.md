@@ -51,7 +51,7 @@ Online is the largest share of records by Sales Method in the following regions:
 A deterministic 1,000-record sample was drawn to test if the mean Operating Profit is greater than 40,000.
 - **Sample Mean:** 33,613.355
 - **Test Statistic:** -3.655
-- **p-value:** 1.000
+- **p-value:** 0.999865
 - **Decision:** Since the p-value is greater than our alpha (0.05), we fail to reject the null hypothesis. The sample does not provide evidence that the mean Operating Profit exceeds 40,000.
 
 ## Business Questions for Further Testing
